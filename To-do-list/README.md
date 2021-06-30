@@ -3,26 +3,26 @@
 ## Client:
 vanilla javascript with jquery & underscore libraries
 
-view:
+- view:
 client.js
 
-controller:
+- controller:
 client.js
 
-model:
+- model:
 todo.js
 
 ## server:
 express / nodejs
 
 ### api:
-get
-post
-put
-delete
+- get
+- post
+- put
+- delete
 
 ## database:
 text file
 
-datastore / index.js
-datastore / counter.js
+- datastore / index.js
+- datastore / counter.js
