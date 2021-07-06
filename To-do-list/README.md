@@ -1,6 +1,6 @@
 # To do list
 
-## Client:
+## client:
 vanilla javascript with jquery & underscore libraries
 
 - view: (client.js)
