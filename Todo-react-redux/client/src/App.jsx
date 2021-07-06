@@ -1,8 +1,15 @@
 import React from 'react';
+import Todo from './Todo';
 
 const App = () => (
   <>
-    <h1>react-webpack-express</h1>
+    <h3>To do list</h3>
+    <div id="form">
+      <input type="input" />
+      <button type="button">add</button>
+    </div>
+    <hr />
+    <Todo />
   </>
 );
 
